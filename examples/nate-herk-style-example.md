@@ -1,7 +1,7 @@
 # Compact example: Nate Herk
 
 ResourceStak: RS-002 Creator Style Clone
-Version: 1.0
+Version: 1.0.1
 
 ## Scope
 

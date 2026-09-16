@@ -1,6 +1,6 @@
 # RS-002: Creator Style Clone
 
-Version: 1.0
+Version: 1.0.1
 ResourceStak: Creator Style Clone
 Status: Packaged pilot
 

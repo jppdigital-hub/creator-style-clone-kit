@@ -1,6 +1,6 @@
 # Creator Style Clone Research Prompt
 
-Version: 1.0
+Version: 1.0.1
 ResourceStak: RS-002 Creator Style Clone
 
 ## Use this prompt

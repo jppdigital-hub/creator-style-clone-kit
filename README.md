@@ -17,6 +17,7 @@ It came out of the same Nate Herk research that produced [Creator Business Clone
 - `style-profile-template.md`: a place to keep your observations, patterns, and open questions together.
 - `examples/nate-herk-style-example.md`: a short example based on the Nate Herk research already done for RS-001.
 - `CHANGELOG.md`: package history.
+- `LICENSE`: the terms for using, sharing, and adapting this public kit.
 
 Start with `framework.md`. Use the prompt when you know who you want to study. Use the template while you work so your guesses don't quietly turn into facts.
 
@@ -33,7 +34,9 @@ The labels matter. `UNKNOWN` is a valid answer when the public evidence doesn't 
 
 ## Usage note
 
-Use this in your own work and change the structure where it helps. Don't present Paul's files as your own. And don't use the framework to copy another person's identity, stories, voice, or private material. The current reuse terms are in `LICENSE`.
+Use this in your own work, inside a business, or with a client. Change the structure where it helps. The kit is released under `CC BY 4.0`, so you can use, share, and adapt it commercially when you follow the attribution and change-notice terms in `LICENSE`.
+
+Don't pass Paul's original files off as your own. And don't use the framework to copy another person's identity, stories, voice, or private material. The license covers Paul's original package and doesn't relicense third-party material.
 
 ## Latest version
 
